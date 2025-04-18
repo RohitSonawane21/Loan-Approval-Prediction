@@ -23,10 +23,7 @@ This project performs the following steps:
 ## 📂 How to Run
 
 1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install dependencies
 3. Run the Streamlit app:
    ```bash
    streamlit run loan_app.py
